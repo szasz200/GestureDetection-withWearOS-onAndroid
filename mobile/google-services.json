@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "20289231909",
+    "project_id": "iosgestus",
+    "storage_bucket": "iosgestus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20289231909:android:7738c5fcfd12b12a4573cc",
+        "android_client_info": {
+          "package_name": "com.example.gesturedetectionandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20289231909-h4vf9abfftt3flo7cqnrpv6eucbo5f2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADXEHmS1oDQxTlCehXqvyn_TMpumeHZWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20289231909-h4vf9abfftt3flo7cqnrpv6eucbo5f2v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "20289231909-e2csshbep8n9nssmpclik5duc8sn1bvj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uni.obuda.gesturedetection"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
